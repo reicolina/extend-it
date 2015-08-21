@@ -1,5 +1,5 @@
 # extend-it [![Build Status](https://travis-ci.org/reinaldo13/extend-it.svg?branch=master)](https://travis-ci.org/reinaldo13/extend-it)
-A Javascript helper for creating a subclass that extends from a super class. It uses Object.create() internally to achieve classical inheritance. This is for single inheritance, which is all that JavaScript(<ES6) supports.
+A Javascript helper for creating a subclass that extends from a super class. It uses Object.create() internally to achieve classical inheritance. This is for single inheritance, which is all what JavaScript (<ES6) supports.
 
 ## Installation
 ```shell

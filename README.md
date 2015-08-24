@@ -1,5 +1,5 @@
 # extend-it [![Build Status](https://travis-ci.org/reinaldo13/extend-it.svg?branch=master)](https://travis-ci.org/reinaldo13/extend-it)
-Ever wanted to do `class Rectangle extends Shape` in JavaScript ES5. This is a helper for creating a subclass that extends from a super class. It uses Object.create() internally to achieve classical inheritance.
+Ever wanted to do `class Rectangle extends Shape` in JavaScript ES5? This is a helper for creating a subclass that extends from a super class. It uses Object.create() internally to achieve classical inheritance.
 
 ## Installation
 ```shell
